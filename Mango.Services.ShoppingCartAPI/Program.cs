@@ -1,4 +1,5 @@
 using AutoMapper;
+using Mango.MessageBus;
 using Mango.Services.ShoppingCartAPI.DbContexts;
 using Mango.Services.ShoppingCartAPI.Repository;
 using Microsoft.EntityFrameworkCore;
@@ -21,9 +22,14 @@ namespace Mango.Services.ShoppingCartAPI
             builder.Services.AddSingleton(mapper);
             builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             builder.Services.AddScoped<ICartRepository, CartRepository>();
+            builder.Services.AddScoped<ICouponRepository, CouponRepository>();
+            builder.Services.AddSingleton<IMessageBus, AzureServiceMessageBus>();
 
             builder.Services.AddControllers();
             builder.Services.AddEndpointsApiExplorer();
+
+            builder.Services.AddHttpClient<ICouponRepository, CouponRepository>(x => x.BaseAddress = new Uri(builder.Configuration["ServiceUrls:CouponAPI"]));
+
 
             builder.Services.AddAuthentication("Bearer")
                 .AddJwtBearer("Bearer", options =>
@@ -75,7 +81,6 @@ namespace Mango.Services.ShoppingCartAPI
             });
 
             var app = builder.Build();
-
 
             if (app.Environment.IsDevelopment())
             {

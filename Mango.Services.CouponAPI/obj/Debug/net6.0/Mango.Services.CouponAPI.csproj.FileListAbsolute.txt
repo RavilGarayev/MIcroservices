@@ -10,6 +10,7 @@ D:\Study\MangoRestorant\Mango.Services.CouponAPI\bin\Debug\net6.0\AutoMapper.Ext
 D:\Study\MangoRestorant\Mango.Services.CouponAPI\bin\Debug\net6.0\Azure.Core.dll
 D:\Study\MangoRestorant\Mango.Services.CouponAPI\bin\Debug\net6.0\Azure.Identity.dll
 D:\Study\MangoRestorant\Mango.Services.CouponAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Study\MangoRestorant\Mango.Services.CouponAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Study\MangoRestorant\Mango.Services.CouponAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Study\MangoRestorant\Mango.Services.CouponAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 D:\Study\MangoRestorant\Mango.Services.CouponAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
@@ -88,4 +89,3 @@ D:\Study\MangoRestorant\Mango.Services.CouponAPI\obj\Debug\net6.0\refint\Mango.S
 D:\Study\MangoRestorant\Mango.Services.CouponAPI\obj\Debug\net6.0\Mango.Services.CouponAPI.pdb
 D:\Study\MangoRestorant\Mango.Services.CouponAPI\obj\Debug\net6.0\Mango.Services.CouponAPI.genruntimeconfig.cache
 D:\Study\MangoRestorant\Mango.Services.CouponAPI\obj\Debug\net6.0\ref\Mango.Services.CouponAPI.dll
-D:\Study\MangoRestorant\Mango.Services.CouponAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

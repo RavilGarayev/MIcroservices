@@ -11,6 +11,9 @@ D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Azure.Co
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Azure.Identity.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Humanizer.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Azure.ServiceBus.dll
+D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
@@ -23,6 +26,7 @@ D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsof
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
@@ -30,6 +34,8 @@ D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsof
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
@@ -38,11 +44,13 @@ D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsof
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\System.CodeDom.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\System.Drawing.Common.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
@@ -50,6 +58,8 @@ D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\System.M
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\System.Text.Json.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
@@ -62,7 +72,10 @@ D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\runtimes
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Mango.MessageBus.dll
+D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Mango.MessageBus.pdb
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\obj\Debug\net6.0\Mango.Services.ShoppingCartAPI.csproj.AssemblyReference.cache
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\obj\Debug\net6.0\Mango.Services.ShoppingCartAPI.GeneratedMSBuildEditorConfig.editorconfig
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\obj\Debug\net6.0\Mango.Services.ShoppingCartAPI.AssemblyInfoInputs.cache
@@ -84,9 +97,3 @@ D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\obj\Debug\net6.0\refint\M
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\obj\Debug\net6.0\Mango.Services.ShoppingCartAPI.pdb
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\obj\Debug\net6.0\Mango.Services.ShoppingCartAPI.genruntimeconfig.cache
 D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\obj\Debug\net6.0\ref\Mango.Services.ShoppingCartAPI.dll
-D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
-D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
-D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\System.CodeDom.dll
-D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
-D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\System.Text.Json.dll
-D:\Study\MangoRestorant\Mango.Services.ShoppingCartAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

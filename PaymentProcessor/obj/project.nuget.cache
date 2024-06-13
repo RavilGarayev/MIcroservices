@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C+LKJA95DbQu7p4eV0qBqDtNw0Qs1YNjYx07FcLCEg3B0dHMwcVScs4Ke2F+11px83gdTmdAa92vO+VDYjQZPA==",
+  "success": true,
+  "projectFilePath": "D:\\Study\\MangoRestorant\\PaymentProcessor\\PaymentProcessor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\garayev_r.cep\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\garayev_r.cep\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\garayev_r.cep\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fVsHWNLxjKvTd/8Ncm4EKKbr5NKySY4vgw2YaoBaUHI=",
+  "Hash": "lPEFGJhYKB/pBhSz2SYhe9MTGCRwPXSoZ++CVfNj9kI=",
   "Source": "Mango.Web",
   "BasePath": "_content/Mango.Web",
   "Mode": "Default",
@@ -102,12 +102,12 @@
       "OriginalItemSpec": "wwwroot\\images\\mango.png"
     },
     {
-      "Identity": "D:\\Study\\MangoRestorant\\Mango.Web\\wwwroot\\images\\order.PNG",
+      "Identity": "D:\\Study\\MangoRestorant\\Mango.Web\\wwwroot\\images\\order.png",
       "SourceId": "Mango.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\MangoRestorant\\Mango.Web\\wwwroot\\",
       "BasePath": "_content/Mango.Web",
-      "RelativePath": "images/order.PNG",
+      "RelativePath": "images/order.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,7 +116,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\order.PNG"
+      "OriginalItemSpec": "wwwroot\\images\\order.png"
     },
     {
       "Identity": "D:\\Study\\MangoRestorant\\Mango.Web\\wwwroot\\js\\site.js",
